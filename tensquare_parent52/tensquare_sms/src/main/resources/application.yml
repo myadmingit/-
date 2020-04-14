@@ -1,0 +1,13 @@
+server:
+  port: 9010
+spring:
+  application:
+    name: tensquare-sms
+  rabbitmq:
+    host: localhost
+aliyun:
+  sms:
+    accessKeyId: LTAI4FxVSSd2adZ5MmEj8axp
+    accessKeySecret: QaE0To9fxFXsdg2dD2CVJ1rcxXw1WH
+    template_code: SMS_187272094
+    sign_name: SCLIMAX
